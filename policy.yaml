@@ -1,0 +1,4 @@
+name: projects/YOUR_PROJECT_ID/policies/iam.allowedPolicyMemberDomains
+spec:
+  rules:
+  - allowAll: true
